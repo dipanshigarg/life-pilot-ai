@@ -8,7 +8,7 @@ Most AI assistants today simply answer questions, but they don’t actually *gui
 
 ---
 
-##The Solution
+The Solution
 
 **LifePilot AI** is designed to go beyond just answering — it helps you *decide*.
 
