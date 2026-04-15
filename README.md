@@ -2,7 +2,7 @@ LifePilot AI – Your Smart Daily Decision Assistant
 
 The Problem
 
-In our daily lives, we often feel stuck or confused about what to do next — whether it's managing studies, handling multiple tasks, or dealing with stress.
+In our daily lives, we often feel stuck or confused about what to do next - whether it's managing studies, handling multiple tasks, or dealing with stress.
 
 Most AI assistants today simply answer questions, but they don’t actually *guide* us in making better decisions.
 
@@ -10,7 +10,7 @@ Most AI assistants today simply answer questions, but they don’t actually *gui
 
 The Solution
 
-**LifePilot AI** is designed to go beyond just answering — it helps you *decide*.
+**LifePilot AI** is designed to go beyond just answering - it helps you *decide*.
 
 It understands your situation and provides clear, actionable guidance like:
 
@@ -60,7 +60,7 @@ Tech Approach
 
 Goal of This Project
 
-To build an AI that doesn't just respond — but actually helps people take better decisions in their everyday life.
+To build an AI that doesn't just respond - but actually helps people take better decisions in their everyday life.
 
 ---
 
