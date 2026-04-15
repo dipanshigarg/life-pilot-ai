@@ -1,6 +1,6 @@
-LifePilot AI – Your Smart Daily Decision Assistant 
+#LifePilot AI – Your Smart Daily Decision Assistant 
 
-The Problem
+##The Problem
 
 In our daily lives, we often feel stuck or confused about what to do next — whether it's managing studies, handling multiple tasks, or dealing with stress.
 
