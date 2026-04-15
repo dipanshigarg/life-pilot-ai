@@ -24,16 +24,16 @@ Think of it as a smart companion that helps you move forward when you're unsure.
 
 Core Features
 
-* Smart Daily Planner**
+* Smart Daily Planner-
   Generates a structured plan based on your situation
 
-* Study Plan Generator**
+* Study Plan Generator-
   Creates focused study schedules based on deadlines
 
-* Task Prioritization**
+* Task Prioritization-
   Helps decide what matters most when you have multiple tasks
 
-* Stress Support Suggestions**
+* Stress Support Suggestions-
   Provides simple, practical steps when you're feeling overwhelmed
 
 ---
