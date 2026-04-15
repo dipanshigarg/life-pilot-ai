@@ -1,6 +1,6 @@
-# LifePilot AI – Your Smart Daily Decision Assistant 
+LifePilot AI – Your Smart Daily Decision Assistant 
 
-## The Problem
+The Problem
 
 In our daily lives, we often feel stuck or confused about what to do next — whether it's managing studies, handling multiple tasks, or dealing with stress.
 
@@ -22,23 +22,23 @@ Think of it as a smart companion that helps you move forward when you're unsure.
 
 ---
 
-##Core Features
+Core Features
 
-* **Smart Daily Planner**
+* Smart Daily Planner**
   Generates a structured plan based on your situation
 
-* 📚 **Study Plan Generator**
+* Study Plan Generator**
   Creates focused study schedules based on deadlines
 
-* ⚡ **Task Prioritization**
+* Task Prioritization**
   Helps decide what matters most when you have multiple tasks
 
-* 💬 **Stress Support Suggestions**
+* Stress Support Suggestions**
   Provides simple, practical steps when you're feeling overwhelmed
 
 ---
 
-## 🔍 How It Works
+How It Works
 
 1. The user describes their situation (e.g., exams, workload, stress)
 2. The system analyzes context like urgency, time, and intent
@@ -46,7 +46,7 @@ Think of it as a smart companion that helps you move forward when you're unsure.
 
 ---
 
-## 🛠️ Tech Approach
+Tech Approach
 
 * AI-based prompt logic for decision-making
 * Rule-based prioritization system
@@ -58,13 +58,13 @@ Think of it as a smart companion that helps you move forward when you're unsure.
 
 ---
 
-## 🎯 Goal of This Project
+Goal of This Project
 
 To build an AI that doesn't just respond — but actually helps people take better decisions in their everyday life.
 
 ---
 
-## 🚀 Future Improvements
+Future Improvements
 
 * Personalized memory for users
 * Smarter emotional understanding
@@ -72,7 +72,7 @@ To build an AI that doesn't just respond — but actually helps people take bett
 
 ---
 
-## 🙌 Final Note
+Final Note
 
 This project focuses on simplicity, usefulness, and real-life impact.
 Because sometimes, all we need is a little clarity on *what to do next*.
